@@ -1,0 +1,10 @@
+{
+    "title": "arm-pulser",
+    "author": "bqqbarbhg",
+    "url": "",
+    "license": "CC0 1.0",
+    "features": ["inherit-mode", "bake"],
+    "options": {
+        "bake-fps": "24"
+    }
+}
